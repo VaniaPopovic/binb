@@ -6,6 +6,8 @@
 
 module.exports = {
   pop: [
+    63346553, //Rihanna
+    20646, //DIDO
     262836961, // ADELE
     459885, // Avril Lavigne
     1419227, // Beyoncé
