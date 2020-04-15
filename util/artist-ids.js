@@ -21,7 +21,8 @@ module.exports = {
     305371030, //adam lambert
     262836961, // ADELE
     115386, //aerosmith
-    211210469, // afrojac
+    211210469, // afrojack
+    88434, //afroman
     42568985, //agnes
     3261325, //akon
     1062085272, //alan walker
@@ -44,7 +45,6 @@ module.exports = {
     43680 // The Roots
   ],
   rock: [
-    5040714, // AC/DC
     462006, // Bob Dylan
     994656, // Led Zeppelin
     3296287, // Queen
