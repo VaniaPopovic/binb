@@ -16,9 +16,17 @@ module.exports = {
     112058, //50cent
     1451667444, //atc
     3249567, //arrahman
+    5040714, //acdc
+    13874, //ace of base
+    305371030, //adam lambert
+    262836961, // ADELE
+    115386, //aerosmith
+    211210469, // afrojac
+    42568985, //agnes
+    3261325, //akon
+    1062085272, //alan walker
     63346553, //Rihanna
     20646, //DIDO
-    262836961, // ADELE
     459885, // Avril Lavigne
     1419227, // Beyoncé
     217005, // Britney Spears
