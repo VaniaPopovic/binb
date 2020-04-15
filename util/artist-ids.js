@@ -10,6 +10,10 @@ module.exports = {
     65632953, //2UNLIMITED
     105998, //2PAC
     101604, // 3DD
+    2307416, //30stm
+    362923, //4nonblondes
+    538811449, //5secondof
+    112058, //50cent
     63346553, //Rihanna
     20646, //DIDO
     262836961, // ADELE
