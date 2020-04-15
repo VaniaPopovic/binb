@@ -6,6 +6,10 @@
 
 module.exports = {
   pop: [
+    398120, //NSYNC
+    65632953, //2UNLIMITED
+    105998, //2PAC
+    101604, // 3DD
     63346553, //Rihanna
     20646, //DIDO
     262836961, // ADELE
