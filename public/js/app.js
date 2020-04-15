@@ -45,7 +45,7 @@
   ];
 
   var bmstrings = [
-    'Congratulations',
+    'Congratulations Misha is a nab',
     'Exactly',
     'Excellent',
     'Good job!',
@@ -1063,7 +1063,7 @@
         $username.addClass('correct');
 
         if (user.roundpoints > 2) {
-          $guesstime.text((user.guesstime / 1000).toFixed(1) + ' s');
+          $guesstime.text((user.guesstime / 1000).toFixed(2) + ' s');
         }
         if (user.roundpoints > 3) {
           $roundrank.addClass(
