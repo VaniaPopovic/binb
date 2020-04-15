@@ -14,6 +14,8 @@ module.exports = {
     362923, //4nonblondes
     538811449, //5secondof
     112058, //50cent
+    1451667444, //atc
+    3249567, //arrahman
     63346553, //Rihanna
     20646, //DIDO
     262836961, // ADELE
