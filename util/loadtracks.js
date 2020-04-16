@@ -13,6 +13,8 @@ let rooms = require('../config').rooms;
 let score;
 let skip = 0; // Skip counter
 let songId = 0;
+let c = 0;
+let artists = "";
 // const options = {
 //   headers: { 'content-type': 'application/json' },
 //   host: 'itunes.apple.com',
@@ -44,6 +46,7 @@ const updateRooms = function(artistId) {
 };
 parser.on('data', function(track) {
   if (track.wrapperType === 'artist') {
+	artists += track.artistId+","+ "//" + track.artistName + "\n";
     if (skip) {
       skip--;
       return;
@@ -88,4 +91,5 @@ rc.del(rooms, function(err) {
   var jsonData = 'test2.json',
         stream = fs.createReadStream(jsonData);
   stream.pipe(parser);
+  process.stdout.write(artists);
 });
