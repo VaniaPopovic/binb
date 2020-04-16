@@ -47,20 +47,20 @@ module.exports = {
 	62978, //aqua
 	62820413, //artic monkeys
 	412778295, //ariana grande
-	 17976294, //armin van buuren
-	 13332559, //ashlee simpson
-	 3089519, //atomic kitten
-	 1265164818, //avamax
-	 38495706, //aventura
-	 298496035, //avicii
-	 459885, //avril lavigne
-	 128864409, //axwell
-	 259700865, //bob
-	 526199085, //baauer
-	 217039, //bsb
-	 148485360, //bad meets eminem wannabe
-	 50760, //bahamen
-	 420203509, //bastille
+	17976294, //armin van buuren
+	13332559, //ashlee simpson
+	3089519, //atomic kitten
+	1265164818, //avamax
+	38495706, //aventura
+	298496035, //avicii
+	459885, //avril lavigne
+	//128864409, //axwell
+	259700865, //bob
+	526199085, //baauer
+	217039, //bsb
+	148485360,
+	50760, //bahamen
+	420203509, //bastille
 	800263205, //bazzi	 
 	466059563, //bebe rexha
 	312095, //beck
@@ -70,30 +70,25 @@ module.exports = {
 	889327, //shakira
 	509491, //big mountain
 	1065981054, //bilie eilish
-	 1806816, //billy talent
-	 290652, //blackstreet
-	 116851, //blink182
-	 1012882, //blondie
-	 861350, //bloodhoung gang
-	 15726, //blu centrell
-	 //BLUE ADD ME
-	 528564, //BLUR
-	 14606058, //Bob sinclar
-	 //boomfunk mcs
-	 122782, //bonjovi
-	 256514, //boyz ii men
-	 17416, //brandy
-	 217005, //britney spears
-	  84239286, //broke fraiser
+	1806816, //billy talent
+	290652, //blackstreet
+	116851, //blink182
+	//1012882, //blondie
+	861350, //bloodhoung gang
+	15726, //blu centrell
+	//BLUE ADD ME
+    528564, //BLUR
+     14606058, //Bob sinclar
+	//boomfunk mcs
+	122782, //bonjovi
+	256514, //boyz ii men
+	17416, //brandy
+	217005, //britney spears
+	84239286, //broke fraiser
 	  //bruce
-	  278873078, //bruno mars
-	   85932, //bryan adams
-	   54583, //busta rymes
-    63346553, //Rihanna
-    20646, //DIDO
-    64387566, // Katy Perry
-    277293880, // Lady GaGa
-    184932871 // MIKA
+	278873078, //bruno mars
+	85932, //bryan adams
+	54583, //busta rymes
   ],
   rap: [
     1587965, // A Tribe Called Quest
