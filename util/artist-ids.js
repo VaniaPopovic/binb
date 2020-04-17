@@ -72,17 +72,125 @@ module.exports = {
 1806816,//Billy Talent
 290652,//Blackstreet
 116851,//blink-182
+1012882,//Blondie
 861350,//Bloodhound Gang
+15726,//Blu Cantrell
+6750434,//Blue
 528564,//Blur
 14606058,//Bob Sinclar
+21401683,//Bomfunk MC's
 122782,//Bon Jovi
 256514,//Boyz II Men
 17416,//Brandy
 217005,//Britney Spears
 84239286,//Brooke Fraser
+178834,//Bruce Springsteen
 278873078,//Bruno Mars
 85932,//Bryan Adams
 54583,//Busta Rhymes
+201955086,//Calvin Harris
+935727853,//Camila Cabello
+398949430,//Capital Cities
+956078923,//Cardi B
+284363062,//Carly Rae Jepsen
+321641106,//Caro Emerald
+27456059,//Cascada
+174680978,//CeeLo Green
+63729,//Céline Dion
+21807249,//Chamillionaire
+432942256,//Charli XCX
+336249253,//Charlie Puth
+106158,//Cher
+95705522,//Chris Brown
+259398,//Christina Aguilera
+99910,//Chumbawamba
+14317116,//Ciara
+463049461,//Clean Bandit
+251316699,//Colbie Caillat
+471744,//Coldplay
+413594421,//Conor Maynard
+625207,//Coolio
+732198,//Corona
+35719,//Counting Crows
+772093,//Craig David
+396643,//Crash Test Dummies
+65646661,//Crazy Frog
+524819,//Crazy Town
+248109,//Crystal Waters
+15028867,//Culture Beat
+1052456,//D12
+25514958,//Daddy Yankee
+5468295,//Daft Punk
+25451036,//Daniel Powter
+18453276,//Danzel
+1472380750,//Darude
+5557599,//David Guetta
+21769,//Snoop Dogg
+158336,//Deee-Lite
+280215821,//Demi Lovato
+1266061375,//Dennis Lloyd
+148377,//Depeche Mode
+485319,//Des'ree
+1068985672,//Desiigner
+634287,//Destiny's Child
+20646,//Dido
+520848228,//Disclosure
+157749142,//DJ Khaled
+125742557,//DJ Snake
+498246294,//DJane HouseKat
+1040595108,//DNCE
+4410487,//Dolores O'Riordan
+65630139,//Don Omar
+14749297,//Dr. Alban
+35315,//Dr. Dre
+271256,//Drake
+1031397873,//Dua Lipa
+335319790,//Duck Sauce
+272521020,//Duffy
+257148267,//Duke Dumont
+487384,//Duran Duran
+670385270,//Dynoro
+67927,//Eagle-Eye Cherry
+529352559,//Echosmith
+183313439,//Ed Sheeran
+318015722,//Edward Maya
+3478219,//Edwyn Collins
+1016230,//Eiffel 65
+281931482,//Eliza Doolittle
+338264227,//Ellie Goulding
+324008615,//Emeli Sandé
+532755,//EMF
+1359004100,//Emilia
+111051,//Eminem
+284433289,//Empire of the Sun
+3218461,//Enigma
+90895,//Enrique Iglesias
+160847,//Enya
+123853,//Eric Clapton
+27065447,//Eric Prydz
+27060010,//Estelle
+42102393,//Evanescence
+1080967231,//Eve
+394218,//Everlast
+164449,//Everything But the Girl
+106804,//Extreme
+159256095,//Far East Movement
+1093405,//Fatboy Slim
+476678294,//Faul
+345696742,//Fences
+151910203,//Fergie
+872900424,//Fetty Wap
+577354628,//Fifth Harmony
+255303209,//Flo Rida
+281070699,//Florence + the Machine
+6906197,//Foo Fighters
+16996557,//Fool's Garden
+80800060,//Fort Minor
+414023649,//Foster the People
+6596751,//Franz Ferdinand
+475816358,//French Montana
+869661,//Fugees
+138226712//Fun.
   ],
   rap: [
     1587965, // A Tribe Called Quest
