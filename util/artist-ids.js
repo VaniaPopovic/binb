@@ -190,7 +190,82 @@ module.exports = {
 6596751,//Franz Ferdinand
 475816358,//French Montana
 869661,//Fugees
-138226712//Fun.
+138226712,//Fun.
+275649746,//G-Eazy
+268949601,//Gabriella Cilmi
+543322169,//Galantis
+109997,//Garbage
+164983628,//Gary Go
+23955673,//Michael Andrews
+1776919,//Gavin DeGraw
+705812852,//George Ezra
+14662287,//Geri Halliwell
+90049828,//Gigi D'Agostino
+129039724,//Gnarls Barkley
+299209053,//gnash
+20135455,//Goldfrapp
+468788,//Good Charlotte
+567072,//Gorillaz
+2819434,//Gossip
+161541223,//Gotye
+954266,//Green Day
+106621,//Guns N' Roses
+281099342,//Guru Josh Project
+108717,//Gwen Stefani
+75949392,//Gym Class Heroes
+1251593,//Haddaway
+38495763,//Haiducii
+324916925,//Halsey
+134110,//Hanson
+471260289,//Harry Styles
+3296003,//Hilary Duff
+115269,//Hole
+415242,//Hoobastank
+475672,//Hooverphonic
+5166342,//House of Pain
+342260741,//Hozier
+364607851,//Hurts
+398345158,//Icona Pop
+503970811,//Iggy Azalea
+358714030,//Imagine Dragons
+22873602,//Imogen Heap
+465707,//Incubus
+927657,//Ini Kamoze
+4218340,//Israel Kamakawiwo'ole
+326644025,//Iyaz
+444520760,//J Balvin
+134420,//Ja Rule
+909253,//Jack Johnson
+5555510,//Jamelia
+193502798,//James Arthur
+369659529,//James Bay
+27496674,//James Blunt
+2473332,//James Morrison
+475902,//Jamiroquai
+1272779,//Janet Jackson
+259118085,//Jason Derulo
+156987,//Jason Mraz
+23172423,//Jay Sean
+1352449404,//JAY-Z
+872190,//Jeff Buckley
+463009,//Jennifer Lopez
+3297778,//Jennifer Paige
+704309129,//Jess Glynne
+405360400,//Jessie J
+2502435,//Jet
+107838,//Joan Osborne
+2951038,//Joey Ramone
+16586443,//John Legend
+649230577,//John Newman
+70936,//Johnny Cash
+5519840,//JoJo
+405728790,//Jonas Blue
+114342891,//Jonas Brothers
+199181208,//Jordin Sparks
+103856,//Juanes
+1368733420,//Juice WRLD
+320569549,//Justin Bieber
+398128//Justin Timberlake
   ],
   rap: [
     1587965, // A Tribe Called Quest
