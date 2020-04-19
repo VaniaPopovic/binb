@@ -265,7 +265,265 @@ module.exports = {
 103856,//Juanes
 1368733420,//Juice WRLD
 320569549,//Justin Bieber
-398128//Justin Timberlake
+398128,//Justin Timberlake
+81983314,//K'naan
+39362944,//Kaiser Chiefs
+2715720,//Kanye West
+20478838,//Kasabian
+64387566,//Katy Perry
+4834968,//Katy Rose
+334854763,//Kesha
+1187178,//Keane
+772086,//Kelis
+316265,//Kelly Clarkson
+368183298,//Kendrick Lamar
+273058501,//Kid Cudi
+252399,//Kid Rock
+301580396,//Kiesza
+14791619,//Kings of Convenience
+1883403,//Kings of Leon
+632399776,//Klingande
+874423,//Kris Kross
+885054140,//Kungs
+635806094,//Kygo
+465031,//Kylie Minogue
+6505625,//La Bouche
+292533375,//La Roux
+215542909,//Lady Antebellum
+277293880,//Lady Gaga
+464296584,//Lana Del Rey
+525316,//Las Ketchup
+521500,//LeAnn Rimes
+15028263,//Lene Marlin
+160410,//Lenny Kravitz
+208651273,//Leona Lewis
+1400730578,//Lil Nas X
+5869117,//Lil Wayne
+157063999,//Lily Allen
+105544,//Limp Bizkit
+148662,//LINKIN PARK
+213555,//Lit
+3181085,//Lloyd
+284482668,//LMFAO
+38513,//Londonbeat
+602767352,//Lorde
+45298110,//Lordi
+417755574,//Loreen
+28170758,//Los del Río
+877792512,//Lost Frequencies
+217194,//Lou Bega
+516169807,//LP
+102834,//Luis Fonsi
+473219952,//Lukas Graham
+263435943,//Lykke Li
+14677454,//M.I.A.
+543948286,//Macklemore & Ryan Lewis
+217068,//Macy Gray
+104622499,//Madcon
+20044,//Madonna
+779604886,//MAGIC!
+315761934,//Major Lazer
+23533743,//Mando Diao
+2398554,//Manu Chao
+91853,//Mariah Carey
+251375,//Marilyn Manson
+306359292,//Marina and The Diamonds
+3849133,//Mario
+14400049,//Mark Ronson
+1798556,//Maroon 5
+1798556,//Maroon 5
+430932944,//Martin Garrix
+15201848,//Martin Solveig
+1392280,//Mary J. Blige
+526404,//Massive Attack
+78681963,//Mattafix
+197843,//MC Hammer
+60358,//Meat Loaf
+348580754,//Meghan Trainor
+653819,//Melanie C
+642709,//Meredith Brooks
+3996865,//Metallica
+251553551,//MGMT
+799597,//Michael Bublé
+32940,//Michael Jackson
+315793976,//Michel Teló
+184932871,//MIKA
+333687585,//Mike Posner
+137057909,//Miley Cyrus
+611146795,//Milky Chance
+195672629,//Milow
+162802,//Missy Elliott
+789023,//Moby
+13453219,//Modjo
+161916,//Morcheeba
+282828598,//Mr Hudson
+157174,//Mr. Big
+28417453,//Mr. Oizo
+122464082,//Mr. Probz
+307699986,//Mumford & Sons
+1093360,//Muse
+14748659,//My Chemical Romance
+626510,//N.E.R.D
+335358066,//Natalia Kills
+397997,//Natalie Imbruglia
+17768486,//Natasha Bedingfield
+110357036,//Naughty Boy
+78257321,//Ne-Yo
+351794,//Nelly
+1260160,//Nelly Furtado
+5237744,//New Radicals
+5280361,//Nickelback
+278464538,//Nicki Minaj
+33987470,//Nicky Jam
+793640807,//Nico & Vinz
+107917,//Nine Inch Nails
+112018,//Nirvana
+1016512,//No Doubt
+1001750,//Norah Jones
+15158929,//O-Zone
+512633,//Oasis
+272953305,//Oceana
+487906750,//Of Monsters and Men
+564656,//OK Go
+382815022,//Olly Murs
+259999,//OMC
+960750491,//Omi
+396754057,//One Direction
+260414340,//OneRepublic
+299554869,//Outasight
+289550,//OutKast
+264481094,//Owl City
+474022504,//Rudimental
+214150835,//Sam Hunt
+156488786,//Sam Smith
+217174,//Santana
+64398046,//Sara Bareilles
+463177,//Savage Garden
+41785189,//Scatman John
+5610556,//Scissor Sisters
+602212,//Scorpions
+156209,//Seal
+259760619,//Sean Kingston
+155138,//Sean Paul
+280215834,//Selena Gomez
+254248201,//SEREBRO
+93697,//Sergio Mendes
+68616,//Shaggy
+889327,//Shakira
+129974,//Shania Twain
+890403665,//Shawn Mendes
+1190949,//Sheppard
+58757,//Sheryl Crow
+643770,//Shivaree
+261479867,//Shontelle
+13493906,//Sia
+73720797,//Sigur Rós
+150861,//Simple Plan
+163002,//Simply Red
+287366,//Sinéad O'Connor
+135669,//Sisqó
+22683,//Sixpence None the Richer
+356545647,//Skrillex
+5796114,//Skunk Anansie
+6907568,//Slipknot
+105658,//Smash Mouth
+1646302,//The Smashing Pumpkins
+41892336,//Snap!
+21769,//Snoop Dogg
+703453,//Snow
+5327254,//Snow Patrol
+102207,//Sonique
+13130691,//Sophie Ellis-Bextor
+485551,//Soul Asylum
+133036,//Soundgarden
+646793,//Spice Girls
+358709,//Spin Doctors
+2579656,//Stereophonics
+94804,//Sting
+270954369,//Stromae
+5414192,//Sugababes
+249591,//Sum 41
+126270462,//Sunrise Avenue
+375569761,//Swedish House Mafia
+462715,//System Of A Down
+256673237,//T-Pain
+352317,//t.A.T.u.
+502475157,//Tacabro
+200407915,//Taio Cruz
+13653352,//Take That
+159260351,//Taylor Swift
+3447642,//The All-American Rejects
+18081415,//The Ark
+360391,//Black Eyed Peas
+5893059,//The Black Keys
+1706169,//The Calling
+259828,//The Cardigans
+580391756,//The Chainsmokers
+3726283,//The Chemical Brothers
+146684,//The Corrs
+122615,//The Cranberries
+767263,//The Dandy Warhols
+2417388,//The Darkness
+31239777,//The Fray
+261727947,//The Game
+147559,//The Goo Goo Dolls
+994708,//The Hives
+6483093,//The Killers
+68448386,//The Kooks
+256505827,//The Last Goodnight
+350720227,//The Lumineers
+2820865,//The Offspring
+1093102,//The Prodigy
+23331509,//The Pussycat Dolls
+6929309,//The Rasmus
+158524,//The Rembrandts
+43680,//The Roots
+277228393,//The Script
+560289,//The Strokes
+19383989,//The Supermen Lovers
+272194824,//The Ting Tings
+5356880,//The Underdog Project
+74214491,//The Veronicas
+528110,//The Verve
+3445978,//The Wanted
+479756766,//The Weeknd
+2456318,//The White Stripes
+4091218,//Tiësto
+3342627,//Timbaland
+488075,//Tina Turner
+17360,//TLC
+78215262,//Tokio Hotel
+85054,//Tom Jones
+1199669456,//Tom Walker
+15935,//Toni Braxton
+417205955,//Toploader
+469476,//Train
+357963571,//Travie McCoy
+475835,//Travis
+349736311,//twenty one pilots
+78500,//U2
+524856,//UB40
+15885,//Usher
+111238,//Vanessa Carlton
+100281,//Vanilla Ice
+884199,//Vengaboys
+451783136,//WALK THE MOON
+115234,//Weezer
+807028,//Westlife
+878137,//Wheatus
+2398879,//White Town
+13952,//Whitney Houston
+628845,//Will Smith
+3495273,//will.i.am
+201714418,//Wiz Khalifa
+1082533559,//XXXTENTACION
+262077589,//Yael Naïm
+910604189,//Years & Years
+325985433,//Yolanda Be Cool
+394582977,//Young the Giant
+973181994,//ZAYN
+483363,//Zebrahead
+368433979//Zedd
   ],
   rap: [
     1587965, // A Tribe Called Quest
