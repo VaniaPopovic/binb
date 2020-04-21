@@ -590,7 +590,7 @@
       var meantime = 'N/A';
       if (player.guessed !== 0) {
         meantime = player.totguesstime / player.guessed;
-        meantime = (meantime / 1000).toFixed(1) + ' s';
+        meantime = (meantime / 1000).toFixed(2) + ' s';
       }
 
       html.push('<td>' + meantime + '</td>');
@@ -1063,7 +1063,7 @@
         $username.addClass('correct');
 
         if (user.roundpoints > 2) {
-          $guesstime.text((user.guesstime / 1000).toFixed(2) + ' s');
+          $guesstime.text(parseFloat(user.guesstime / 1000)).toFixed(2) + ' s');
         }
         if (user.roundpoints > 3) {
           $roundrank.addClass(
