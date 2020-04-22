@@ -54,6 +54,7 @@ module.exports = {
 38495706,//Aventura
 298496035,//Avicii
 459885,//Avril Lavigne
+128864409,//Axwell Λ Ingrosso
 259700865,//B.o.B
 526199085,//Baauer
 217039,//Backstreet Boys
@@ -331,7 +332,7 @@ module.exports = {
 3849133,//Mario
 14400049,//Mark Ronson
 1798556,//Maroon 5
-1798556,//Maroon 5
+980795202,//Marshmello
 430932944,//Martin Garrix
 15201848,//Martin Solveig
 1392280,//Mary J. Blige
@@ -393,6 +394,51 @@ module.exports = {
 299554869,//Outasight
 289550,//OutKast
 264481094,//Owl City
+4488522,//P!nk
+626650,//P.O.D.
+80456331,//Panic! At the Disco
+3445763,//Papa Roach
+396255033,//Passenger
+49254184,//Paul Kalkbrenner
+467464,//Pearl Jam
+128874816,//Pedro Capó
+488020,//Pet Shop Boys
+366667,//Phantom Planet
+1361068,//Pharrell Williams
+27044968,//Pitbull
+649817,//Placebo
+16252710,//Plain White T's
+381641802,//Plan B
+853090,//Portishead
+167649475,//Portugal. The Man
+966309175,//Post Malone
+554290495,//PSY
+109754,//Puddle of Mudd
+155449,//Puff Daddy
+3296287,//Queen
+857919,//Queens of the Stone Age
+269180970,//R. City
+140083,//R. Kelly
+311145,//R.E.M.
+263006656,//R.I.O.
+657515,//Radiohead
+829356035,//Rae Sremmurd
+579281370,//Rag'n'Bone Man
+899409,//Rage Against the Machine
+408932,//Rammstein
+396749907,//Rebecca Ferguson
+889780,//Red Hot Chili Peppers
+35255232,//Rednex
+217142,//Ricky Martin
+18949231,//Right Said Fred
+63346553,//Rihanna
+16252655,//Rise Against
+355898104,//Rita Ora
+17973,//Robbie Williams
+395571,//Robert Miles
+347433400,//Robin Schulz
+290491,//Robin Thicke
+2397346,//Roxette
 474022504,//Rudimental
 214150835,//Sam Hunt
 156488786,//Sam Smith
