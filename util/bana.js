@@ -40,6 +40,7 @@ const updateRooms = function(artistId) {
     rooms.push('rap');
     skip = rapIds.length - 1;
   } else {
+	process.stdout.write("ARTISTID AT FAULT " + artistId +"\n");
     rooms.push('oldies', 'rock');
     skip = rockIds.length - 1;
  }
