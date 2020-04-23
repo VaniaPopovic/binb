@@ -604,9 +604,7 @@ module.exports = {
     1971863, // Beastie Boys
     465802, // Cypress Hill
     384304, // EPMD
-    289550, // OutKast
     13503763, // Swollen Members
-    43680 // The Roots
   ],
   rock: [
     462006, // Bob Dylan
