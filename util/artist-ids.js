@@ -6,6 +6,7 @@
 
 module.exports = {
   pop: [
+290699,//Earth, Wind & Fire
 398120,//*NSYNC
 65632953,//2 Unlimited
 105998,//2Pac
@@ -43,11 +44,12 @@ module.exports = {
 85942,//Anastacia
 6059292,//Andreas Johnson
 14000,//Annie Lennox
-1646339,//Apollo 440
 62978,//Aqua
 62820413,//Arctic Monkeys
 412778295,//Ariana Grande
+1026196272,//Arizona Zervas
 17976294,//Armin van Buuren
+777679292,//AronChupa
 13332559,//Ashlee Simpson
 3089519,//Atomic Kitten
 1265164818,//Ava Max
@@ -88,6 +90,7 @@ module.exports = {
 178834,//Bruce Springsteen
 278873078,//Bruno Mars
 85932,//Bryan Adams
+254710145,//Burak Yeter
 54583,//Busta Rhymes
 201955086,//Calvin Harris
 935727853,//Camila Cabello
@@ -102,6 +105,7 @@ module.exports = {
 432942256,//Charli XCX
 336249253,//Charlie Puth
 106158,//Cher
+277197836,//Cheryl
 95705522,//Chris Brown
 259398,//Christina Aguilera
 99910,//Chumbawamba
@@ -127,20 +131,22 @@ module.exports = {
 1472380750,//Darude
 5557599,//David Guetta
 21769,//Snoop Dogg
+779085108,//Dean Lewis
 158336,//Deee-Lite
 280215821,//Demi Lovato
 1266061375,//Dennis Lloyd
+539290576,//Deorro
 148377,//Depeche Mode
 485319,//Des'ree
 1068985672,//Desiigner
 634287,//Destiny's Child
 20646,//Dido
 520848228,//Disclosure
+156807,//Disturbed
 157749142,//DJ Khaled
 125742557,//DJ Snake
 498246294,//DJane HouseKat
 1040595108,//DNCE
-4410487,//Dolores O'Riordan
 65630139,//Don Omar
 14749297,//Dr. Alban
 35315,//Dr. Dre
@@ -152,6 +158,7 @@ module.exports = {
 487384,//Duran Duran
 670385270,//Dynoro
 67927,//Eagle-Eye Cherry
+2159580,//Eamon
 529352559,//Echosmith
 183313439,//Ed Sheeran
 318015722,//Edward Maya
@@ -178,6 +185,7 @@ module.exports = {
 159256095,//Far East Movement
 1093405,//Fatboy Slim
 476678294,//Faul
+677647437,//Felix Jaehn
 345696742,//Fences
 151910203,//Fergie
 872900424,//Fetty Wap
@@ -202,6 +210,7 @@ module.exports = {
 705812852,//George Ezra
 14662287,//Geri Halliwell
 90049828,//Gigi D'Agostino
+648992,//Ginuwine
 129039724,//Gnarls Barkley
 299209053,//gnash
 20135455,//Goldfrapp
@@ -248,6 +257,7 @@ module.exports = {
 156987,//Jason Mraz
 23172423,//Jay Sean
 1352449404,//JAY-Z
+1201228278,//Jax Jones
 872190,//Jeff Buckley
 463009,//Jennifer Lopez
 3297778,//Jennifer Paige
@@ -257,6 +267,7 @@ module.exports = {
 107838,//Joan Osborne
 2951038,//Joey Ramone
 16586443,//John Legend
+472054,//John Mayer
 649230577,//John Newman
 70936,//Johnny Cash
 5519840,//JoJo
@@ -278,6 +289,7 @@ module.exports = {
 772086,//Kelis
 316265,//Kelly Clarkson
 368183298,//Kendrick Lamar
+17768347,//Keri Hilson
 273058501,//Kid Cudi
 252399,//Kid Rock
 301580396,//Kiesza
@@ -298,12 +310,15 @@ module.exports = {
 15028263,//Lene Marlin
 160410,//Lenny Kravitz
 208651273,//Leona Lewis
+1213405916,//Lewis Capaldi
 1400730578,//Lil Nas X
 5869117,//Lil Wayne
 157063999,//Lily Allen
 105544,//Limp Bizkit
 148662,//LINKIN PARK
+14956741,//Liquido
 213555,//Lit
+472949623,//Lizzo
 3181085,//Lloyd
 284482668,//LMFAO
 38513,//Londonbeat
@@ -322,6 +337,7 @@ module.exports = {
 217068,//Macy Gray
 104622499,//Madcon
 20044,//Madonna
+1056294097,//Mabel
 779604886,//MAGIC!
 315761934,//Major Lazer
 23533743,//Mando Diao
@@ -340,6 +356,7 @@ module.exports = {
 78681963,//Mattafix
 197843,//MC Hammer
 60358,//Meat Loaf
+1449138676,//Meduza
 348580754,//Meghan Trainor
 653819,//Melanie C
 642709,//Meredith Brooks
@@ -356,7 +373,6 @@ module.exports = {
 162802,//Missy Elliott
 789023,//Moby
 13453219,//Modjo
-161916,//Morcheeba
 282828598,//Mr Hudson
 157174,//Mr. Big
 28417453,//Mr. Oizo
@@ -398,6 +414,7 @@ module.exports = {
 626650,//P.O.D.
 80456331,//Panic! At the Disco
 3445763,//Papa Roach
+75950796,//Paramore
 396255033,//Passenger
 49254184,//Paul Kalkbrenner
 467464,//Pearl Jam
@@ -463,7 +480,7 @@ module.exports = {
 643770,//Shivaree
 261479867,//Shontelle
 13493906,//Sia
-73720797,//Sigur Rós
+950550278,//Silentó
 150861,//Simple Plan
 163002,//Simply Red
 287366,//Sinéad O'Connor
@@ -480,6 +497,7 @@ module.exports = {
 5327254,//Snow Patrol
 102207,//Sonique
 13130691,//Sophie Ellis-Bextor
+251832454,//Soulja Boy Tell 'Em
 485551,//Soul Asylum
 133036,//Soundgarden
 646793,//Spice Girls
@@ -494,6 +512,7 @@ module.exports = {
 462715,//System Of A Down
 256673237,//T-Pain
 352317,//t.A.T.u.
+14967,//T.I.
 502475157,//Tacabro
 200407915,//Taio Cruz
 13653352,//Take That
@@ -518,6 +537,7 @@ module.exports = {
 68448386,//The Kooks
 256505827,//The Last Goodnight
 350720227,//The Lumineers
+5499810,//The Notorious B.I.G.
 2820865,//The Offspring
 1093102,//The Prodigy
 23331509,//The Pussycat Dolls
@@ -534,22 +554,29 @@ module.exports = {
 3445978,//The Wanted
 479756766,//The Weeknd
 2456318,//The White Stripes
+733629,//Third Eye Blind
 4091218,//Tiësto
 3342627,//Timbaland
 488075,//Tina Turner
+250081539,//Tinie Tempah
 17360,//TLC
 78215262,//Tokio Hotel
 85054,//Tom Jones
+524929515,//Tom Odell
 1199669456,//Tom Walker
+1488123516,//Tones And I
 15935,//Toni Braxton
 417205955,//Toploader
+570136838,//Tove Lo
 469476,//Train
 357963571,//Travie McCoy
 475835,//Travis
+549236696,//Travis Scott
 349736311,//twenty one pilots
 78500,//U2
 524856,//UB40
 15885,//Usher
+594135753,//Vance Joy
 111238,//Vanessa Carlton
 100281,//Vanilla Ice
 884199,//Vengaboys
@@ -562,14 +589,15 @@ module.exports = {
 628845,//Will Smith
 3495273,//will.i.am
 201714418,//Wiz Khalifa
+622429974,//X Ambassadors
 1082533559,//XXXTENTACION
 262077589,//Yael Naïm
 910604189,//Years & Years
-325985433,//Yolanda Be Cool
 394582977,//Young the Giant
+570372593,//Zara Larsson
 973181994,//ZAYN
-483363,//Zebrahead
 368433979//Zedd
+
   ],
   rap: [
     1587965, // A Tribe Called Quest
