@@ -69,8 +69,10 @@ parser.on('data', function(track) {
   //   'artworkUrl100',
   //   track.artworkUrl100
   // );
+if(track.artistName === undefined){
+	  process.stdout.write("Song id " + songId + " artistName" +  track.artistName  + " TRACKNAME "  + track.trackName+"\n" );
+}
 
-  process.stdout.write("Song id " + songId + " artistName" +  track.artistName  + " TRACKNAME "  + track.trackName+"\n" );
   rooms.forEach(function(room) {
     const _score = room === 'mixed' ? songId : score;
     rc.zadd(room, _score, songId);
