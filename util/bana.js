@@ -86,7 +86,7 @@ parser.on('end', function() {
   rc.quit();
   process.stdout.write('OK\n');
     process.stdout.write('NEOLAN');
-  process.stdout.write(artists);
+ // process.stdout.write(artists);
 });
 rc.del(rooms, function(err) {
   if (err) {
