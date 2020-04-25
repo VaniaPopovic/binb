@@ -30,19 +30,19 @@ let artists = "";
  * Set the rooms in which the songs of a given artist will be loaded.
  */
 const updateRooms = function(artistId) {
-  rooms = ['mixed'];
+  rooms = ['mixed','hits','oldies', 'rock','pop'];
   score = 0;
-  if (artistId === popIds[0]) {
-    rooms.push('hits', 'pop');
-    // Set the skip counter (there is no need to update the rooms for the next pop artists)
-    skip = popIds.length - 1;
-  } else if (artistId === rapIds[0]) {
-    rooms.push('rap');
-    skip = rapIds.length - 1;
-  } else {
-    rooms.push('oldies', 'rock');
-    skip = rockIds.length - 1;
- }
+//   if (artistId === popIds[0]) {
+//     rooms.push('hits', 'pop');
+//     // Set the skip counter (there is no need to update the rooms for the next pop artists)
+//     skip = popIds.length - 1;
+//   } else if (artistId === rapIds[0]) {
+//     rooms.push('rap');
+//     skip = rapIds.length - 1;
+//   } else {
+//     rooms.push('oldies', 'rock');
+//     skip = rockIds.length - 1;
+//  }
 };
 parser.on('data', function(track) {
   if (track.wrapperType === 'artist') {
