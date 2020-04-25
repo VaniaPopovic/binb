@@ -610,7 +610,6 @@ module.exports = {
   rock: [
     462006, // Bob Dylan
     994656, // Led Zeppelin
-    3296287, // Queen
     562555, // The Beach Boys
     136975, // The Beatles
     62819 // The Jimi Hendrix Experience
