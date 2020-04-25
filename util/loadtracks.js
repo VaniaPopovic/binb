@@ -47,10 +47,6 @@ const updateRooms = function(artistId) {
 parser.on('data', function(track) {
   if (track.wrapperType === 'artist') {
 	artists += track.artistId+","+ "//" + track.artistName + "\n";
-    if (skip) {
-      skip--;
-      return;
-    }
     updateRooms(track.artistId);
     return;
   }
