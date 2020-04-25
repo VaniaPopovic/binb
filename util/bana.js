@@ -70,7 +70,7 @@ parser.on('data', function(track) {
   //   'artworkUrl100',
   //   track.artworkUrl100
   // );
-if(track.artistName === undefined){
+if(track.artistId !== popIds[0]){
 	  process.stdout.write("Song id " + songId + " artistName" +  track.artistName  + " TRACKNAME "  + track.trackName+"\n" );
 }
 
