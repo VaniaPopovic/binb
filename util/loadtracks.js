@@ -30,7 +30,7 @@ let artists = "";
  * Set the rooms in which the songs of a given artist will be loaded.
  */
 const updateRooms = function(t) {
-  rooms = ['mixed','hits','oldies'];
+  rooms = ['mixed','hits'];
   score = 0;
   var primaryGenreName= t.primaryGenreName;
   if (Array.isArray(primaryGenreName)){
@@ -39,7 +39,7 @@ const updateRooms = function(t) {
   else if(typeof primaryGenreName === 'string'){
     if(primaryGenreName.toLowerCase().indexOf('rap')) rooms.push('rap')
     if(primaryGenreName.toLowerCase().indexOf('pop')) rooms.push('pop')
-    if(primaryGenreName.toLowerCase().indexOf('rock')) rooms.push('rock')
+    if(primaryGenreName.toLowerCase().indexOf('rock')) rooms.push('rock','oldies')
   }
 //   if (t.primaryGenreName === popIds[0]) {
 //     rooms.push('pop');
