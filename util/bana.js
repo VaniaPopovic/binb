@@ -70,10 +70,11 @@ parser.on('data', function(track) {
   //   'artworkUrl100',
   //   track.artworkUrl100
   // );
-if(track.artistId !== popIds[0]){
-	  process.stdout.write("Song id " + songId + " artistName" +  track.artistName  + " TRACKNAME "  + track.trackName+"\n" );
-}
-
+ if(popIds.indexOf(track.artistId) !== -1){
+       // alert("Value exists!")
+    } else{
+         process.stdout.write("Song id " + songId + " artistName" +  track.artistName  + " TRACKNAME "  + track.trackName+"\n" );
+    }
   rooms.forEach(function(room) {
     const _score = room === 'mixed' ? songId : score;
     rc.zadd(room, _score, songId);
