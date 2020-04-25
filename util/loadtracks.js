@@ -29,14 +29,22 @@ let artists = "";
 /**
  * Set the rooms in which the songs of a given artist will be loaded.
  */
-const updateRooms = function(artistId) {
-  rooms = ['mixed','hits','oldies', 'rock','pop'];
+const updateRooms = function(t) {
+  rooms = ['mixed','hits','oldies'];
   score = 0;
-//   if (artistId === popIds[0]) {
-//     rooms.push('hits', 'pop');
+  var primaryGenreName= t.primaryGenreName;
+  if (Array.isArray(primaryGenreName)){
+    return;
+  }
+  else if(typeof primaryGenreName === 'string'){
+    if(primaryGenreName.toLowerCase().indexOf('rap')) rooms.push('rap')
+    if(primaryGenreName.toLowerCase().indexOf('pop')) rooms.push('pop')
+    if(primaryGenreName.toLowerCase().indexOf('rock')) rooms.push('rock')
+  }
+//   if (t.primaryGenreName === popIds[0]) {
+//     rooms.push('pop');
 //     // Set the skip counter (there is no need to update the rooms for the next pop artists)
-//     skip = popIds.length - 1;
-//   } else if (artistId === rapIds[0]) {
+//   } else if () {
 //     rooms.push('rap');
 //     skip = rapIds.length - 1;
 //   } else {
@@ -46,10 +54,9 @@ const updateRooms = function(artistId) {
 };
 parser.on('data', function(track) {
   if (track.wrapperType === 'artist') {
-	artists += track.artistId+","+ "//" + track.artistName + "\n";
-    updateRooms(track.artistId);
-    return;
-  }
+      return;
+    }
+    updateRooms(track);
   rc.hmset(
     'song:' + songId,
     'artistName',
