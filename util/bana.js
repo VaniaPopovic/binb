@@ -78,7 +78,7 @@ parser.on('data', function(track) {
        malakia++;
 	   process.stdout.write("Ok: Song id " + songId + " artistName" +  track.artistName  + " TRACKNAME "  + track.trackName+"\n" );
     } else{
-         process.stdout.write("Song id " + songId + " artistName" +  track.artistName  + " TRACKNAME "  + track.trackName+"\n" );
+         process.stdout.write("ERRRRRRRROR: Song id " + songId + " artistName" +  track.artistName  + " TRACKNAME "  + track.trackName+"\n" );
     }
   rooms.forEach(function(room) {
     const _score = room === 'mixed' ? songId : score;
