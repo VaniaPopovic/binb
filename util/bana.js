@@ -82,7 +82,10 @@ if(track.artistName === undefined){
   songId++;
 });
 parser.on('end', function() {
-	
+  rc.hgetall("hits", function(err, rep){
+    //console.log(rep);
+    process.stdout.write(rep);
+   });
   rc.quit();
   process.stdout.write('OK\n');
     process.stdout.write('NEOLAN');
@@ -100,4 +103,8 @@ rc.del(rooms, function(err) {
         stream = fs.createReadStream(jsonData);
   stream.pipe(parser);
   process.stdout.write(artists);
+  rc.hgetall("hits", function(err, rep){
+    //console.log(rep);
+    process.stdout.write(rep);
+   });
 });
