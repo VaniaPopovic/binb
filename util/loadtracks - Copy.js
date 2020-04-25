@@ -79,11 +79,15 @@ parser.on('data', function(track) {
   songId++;
 });
 parser.on('end', function() {
-	
+  rc.hgetall("hits", function(err, rep){
+    //console.log(rep);
+    process.stdout.write(rep);
+   });
   rc.quit();
   process.stdout.write('OK\n');
     process.stdout.write('NEOLAN');
   process.stdout.write(artists);
+
 });
 rc.del(rooms, function(err) {
   if (err) {
