@@ -455,6 +455,7 @@ module.exports = {
 395571,//Robert Miles
 347433400,//Robin Schulz
 290491,//Robin Thicke
+1212442072,//Roddy Ricch
 2397346,//Roxette
 474022504,//Rudimental
 214150835,//Sam Hunt
@@ -593,11 +594,11 @@ module.exports = {
 1082533559,//XXXTENTACION
 262077589,//Yael Naïm
 910604189,//Years & Years
+325985433,//Yolanda Be Cool
 394582977,//Young the Giant
 570372593,//Zara Larsson
 973181994,//ZAYN
 368433979//Zedd
-
   ],
   rap: [
     1587965, // A Tribe Called Quest
