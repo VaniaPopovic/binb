@@ -34,14 +34,16 @@ const updateRooms = function(artistId) {
   rooms = ['mixed'];
   score = 0;
   if (artistId === popIds[0]) {
+	 process.stdout.write("Proccessing " + artistId +"\n");
     rooms.push('hits', 'pop');
     // Set the skip counter (there is no need to update the rooms for the next pop artists)
     skip = popIds.length - 1;
   } else if (artistId === rapIds[0]) {
+	  process.stdout.write("Proccessing " + artistId +"\n");
     rooms.push('rap');
     skip = rapIds.length - 1;
   } else {
-	process.stdout.write("ARTISTID AT FAULT " + artistId +"\n");
+	process.stdout.write("Proccessing " + artistId +"\n");
     rooms.push('oldies', 'rock');
     skip = rockIds.length - 1;
  }
@@ -74,6 +76,7 @@ parser.on('data', function(track) {
   
  if(popIds.indexOf(track.artistId) !== -1){
        malakia++;
+	   process.stdout.write("Ok: Song id " + songId + " artistName" +  track.artistName  + " TRACKNAME "  + track.trackName+"\n" );
     } else{
          process.stdout.write("Song id " + songId + " artistName" +  track.artistName  + " TRACKNAME "  + track.trackName+"\n" );
     }
