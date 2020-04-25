@@ -15,6 +15,7 @@ let skip = 0; // Skip counter
 let songId = 0;
 let c = 0;
 let artists = "";
+let  malakia = 0;
 // const options = {
 //   headers: { 'content-type': 'application/json' },
 //   host: 'itunes.apple.com',
@@ -70,8 +71,9 @@ parser.on('data', function(track) {
   //   'artworkUrl100',
   //   track.artworkUrl100
   // );
+  
  if(popIds.indexOf(track.artistId) !== -1){
-       // alert("Value exists!")
+       malakia++;
     } else{
          process.stdout.write("Song id " + songId + " artistName" +  track.artistName  + " TRACKNAME "  + track.trackName+"\n" );
     }
@@ -85,7 +87,8 @@ parser.on('data', function(track) {
 parser.on('end', function() {
   rc.quit();
   process.stdout.write('OK\n');
-    process.stdout.write('NEOLAN');
+    process.stdout.write("Malakia" + malakia);
+	 process.stdout.write('NEOLAN');
  // process.stdout.write(artists);
 });
 rc.del(rooms, function(err) {
