@@ -37,9 +37,17 @@ const updateRooms = function(t) {
     return;
   }
   else if(typeof primaryGenreName === 'string'){
-    if(primaryGenreName.toLowerCase().indexOf('rap')) rooms.push('rap')
-    if(primaryGenreName.toLowerCase().indexOf('pop')) rooms.push('pop')
-    if(primaryGenreName.toLowerCase().indexOf('rock')) rooms.push('rock','oldies')
+    if(primaryGenreName.toLowerCase().indexOf('rap')) {
+      rooms.push('rap');
+    }
+    if(primaryGenreName.toLowerCase().indexOf('pop')) {
+      rooms.push('pop');
+    }
+    if(primaryGenreName.toLowerCase().indexOf('rock'))
+    {
+      rooms.push('rock','oldies');
+    }
+    
   }
 //   if (t.primaryGenreName === popIds[0]) {
 //     rooms.push('pop');
